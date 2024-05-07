@@ -48,7 +48,7 @@ As this repository strictly serves an educational purpose, it abides by the guid
 It does not aim to infringe upon any copyrights held by the author or the publisher.
 
 ## Citation:
-Francois Chollet - (2021).  Deep Learning with Python. Packt  ISBN-13: 978-1-61729-686-4
+Francois Chollet - (2021).  Deep Learning with Python. Manning  ISBN-13: 978-1-61729-686-4
 
 Remember: "It's for the ultimate end of science."
 
